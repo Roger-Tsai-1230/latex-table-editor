@@ -5,7 +5,7 @@
   "version": "1.0.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/your-username/latex-table-editor.git"
+    "url": "https://github.com/Roger-Tsai-1230/latex-table-editor.git"
   },
   "engines": {
     "vscode": "^1.104.0"
